@@ -1,0 +1,22 @@
+version: "2" ##33Composefileのバージョンを2に設定
+services:
+  wordpress:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "3001:80" #ポート番号の設定
+    depends_on:
+      - mysql #mysqlを立ち上げた後にWordpressを立ち上げる
+    env_file: .env #環境変数の定義に.envを利用
+    volumes:
+      - ./html:/var/www/html #マウントするディレクトリを指定
+      #- ./php-conf:/usr/local/etc/php #php.iniの編集内容を永続化
+  mysql:
+    image: mysql:5.7 #MySQL5.7公式イメージを利用
+    env_file: .env #環境変数の定義に.envを利用
+    ports:
+      - "3306:3306" #ポート番号の設定
+    volumes:
+      - ./db/mysql_init:/docker-entrypoint-initdb.d #初期データを投入するSQLが格納されているdir
+      - ./db/mysql_data:/var/lib/mysql #永続化するときにマウントするdir

@@ -1,0 +1,258 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"LIQUID BLOCKS\n"
+"POT-Creation-Date: "
+"2020-08-26 12:59+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: LIQUID "
+"DESIGN Ltd.\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.4.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"*node_modules\n"
+
+#: lib/block.js:64
+#: liquid-blocks.php:169
+#: src/block.js:57
+msgid "Layouts"
+msgstr ""
+
+#: lib/block.js:78
+#: lib/block.js:86
+#: src/block.js:67
+#: src/block.js:73
+msgid "LIQUID BLOCKS"
+msgstr ""
+
+#: lib/block.js:91
+#: liquid-blocks.php:420
+#: src/block.js:76
+msgid "Shortcuts"
+msgstr ""
+
+#: lib/block.js:216
+#: liquid-blocks.php:86
+#: liquid-blocks.php:403
+#: src/block.js:173
+msgid "Settings"
+msgstr ""
+
+#: lib/block.js:224
+#: src/block.js:177
+msgid "Gallery"
+msgstr ""
+
+#: lib/block.js:236
+#: src/block.js:184
+msgid ""
+"Just choose your "
+"favorite design!"
+msgstr ""
+
+#: lib/block.js:272
+#: liquid-blocks.php:217
+#: liquid-blocks.php:411
+#: liquid-blocks.php:412
+#: src/block.js:217
+msgid ""
+"Block Pattern Manager"
+msgstr ""
+
+#: lib/block.js:278
+#: src/block.js:217
+msgid "LIQUID PRESS"
+msgstr ""
+
+#: lib/block.js:291
+#: lib/block.js:299
+#: src/block.js:228
+#: src/block.js:240
+msgid "Mark"
+msgstr ""
+
+#: lib/block.js:308
+#: lib/block.js:316
+#: src/block.js:250
+#: src/block.js:262
+msgid "Big"
+msgstr ""
+
+#: lib/block.js:325
+#: lib/block.js:333
+#: src/block.js:272
+#: src/block.js:284
+msgid "Small"
+msgstr ""
+
+#: lib/block.js:342
+#: lib/block.js:350
+#: src/block.js:294
+#: src/block.js:306
+msgid "Underline"
+msgstr ""
+
+#: lib/block.js:418
+#: src/block.js:373
+msgid ""
+"The copied block can be "
+"inserted with \"Ctrl + v"
+"\"."
+msgstr ""
+
+#: liquid-blocks.php:130
+msgid "Block Patterns"
+msgstr ""
+
+#: liquid-blocks.php:137
+#: liquid-blocks.php:291
+msgid "Untitled block"
+msgstr ""
+
+#: liquid-blocks.php:167
+msgid "Headlines"
+msgstr ""
+
+#: liquid-blocks.php:171
+msgid "Price list"
+msgstr ""
+
+#: liquid-blocks.php:173
+msgid ""
+"CTA: Call To Action"
+msgstr ""
+
+#: liquid-blocks.php:175
+msgid "Landing pages"
+msgstr ""
+
+#: liquid-blocks.php:177
+msgid ""
+"Recommended Plugins"
+msgstr ""
+
+#: liquid-blocks.php:183
+msgid "Copy"
+msgstr ""
+
+#: liquid-blocks.php:184
+msgid "Insert"
+msgstr ""
+
+#: liquid-blocks.php:185
+msgid "Select"
+msgstr ""
+
+#: liquid-blocks.php:186
+msgid "Cancel"
+msgstr ""
+
+#: liquid-blocks.php:187
+msgid "Close"
+msgstr ""
+
+#: liquid-blocks.php:221
+#: liquid-blocks.php:222
+#: liquid-blocks.php:223
+msgid "Block Pattern"
+msgstr ""
+
+#: liquid-blocks.php:224
+msgid "Block Pattern List"
+msgstr ""
+
+#: liquid-blocks.php:225
+#: liquid-blocks.php:226
+#: liquid-blocks.php:261
+msgid "Add New"
+msgstr ""
+
+#: liquid-blocks.php:227
+msgid "Edit"
+msgstr ""
+
+#: liquid-blocks.php:253
+#: liquid-blocks.php:260
+msgid ""
+"Block Pattern Category"
+msgstr ""
+
+#: liquid-blocks.php:262
+msgid ""
+"Press the Enter key."
+msgstr ""
+
+#: liquid-blocks.php:365
+msgid "illegal data"
+msgstr ""
+
+#: liquid-blocks.php:396
+msgid "Recommend"
+msgstr ""
+
+#: liquid-blocks.php:413
+msgid "Featured Image"
+msgstr ""
+
+#: liquid-blocks.php:414
+msgid ""
+"Enable default block "
+"pattern"
+msgstr ""
+
+#: liquid-blocks.php:421
+msgid ""
+"Sidebar shortcut button "
+"settings."
+msgstr ""
+
+#: liquid-blocks.php:421
+msgid ""
+"Enter any name, gallery "
+"category name, and "
+"number."
+msgstr ""
+
+#: liquid-blocks.php:433
+msgid "Enable"
+msgstr ""

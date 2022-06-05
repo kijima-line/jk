@@ -1,0 +1,231 @@
+@charset "utf-8";
+/*
+Author: LIQUID DESIGN Ltd.
+Author URI: https://lqd.jp/wp/
+*/
+.none {
+    display: none !important;
+}
+.text-right {
+    text-align: right;
+}
+.block-editor-block-list__layout .is-style-w-25,
+.block-editor-block-list__layout .is-style-w-50,
+.block-editor-block-list__layout .is-style-w-75,
+.block-editor-block-list__layout .is-style-non-grid-left {
+    margin-left: 0;
+}
+.block-editor-block-list__layout .is-style-right,
+.block-editor-block-list__layout .is-style-non-grid-right {
+    margin-right: 0;
+    margin-left: auto;
+}
+.editor-styles-wrapper .is-style-heapup {
+    margin-top: -5rem;
+}
+.editor-styles-wrapper .is-style-overlay.wp-block-button {
+    margin-top: -8rem;
+    margin-bottom: 6rem;
+}
+.liquid_blocks_row {
+    display: block;
+}
+.liquid_blocks_none {
+    display: none;
+}
+.liquid_blocks_tags {
+    border: 1px solid #e2e4e7;
+    display: inline-block;
+    margin: 0 .25rem .25rem 0;
+    padding: .25rem .5rem;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 1.2;
+}
+.liquid_blocks_tags:hover,
+.liquid_blocks_bnr:hover{
+    color: #fff;
+    background: #00A5D4;
+}
+.liquid_blocks_bnr {
+    border: 1px solid #e2e4e7;
+    display: block;
+    margin: 0 .25rem .25rem 0;
+    padding: .5rem;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background: #32BDEB;
+    color: #fff;
+    border-radius: 5px;
+    font-size: large;
+}
+.liquid_blocks_bnr:before {
+    font-family: dashicons;
+    content: "\f538";
+    display: block;
+    font-size: 2em;
+    line-height: 1.2;
+}
+.liquid_blocks_bnr:after {
+    content: "LIQUID BLOCKS";
+    display: block;
+    line-height: 1.2;
+}
+
+/* Scalability */
+.liquid_blocks_pro, .liquid_blocks_lp, .liquid_blocks_sp, .liquid_blocks_sp2, .liquid_blocks_sp3 {
+    display: none;
+}
+
+/* Gallery */
+.liquid_blocks_modal {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: -1;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+}
+.liquid_blocks_modal.active {
+    display: block !important;
+    width: auto;
+    height: auto;
+    z-index: 100000;
+}
+.liquid_blocks_modal_gallery {
+    position: fixed;
+    width: 95%;
+    height: 95vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 1rem;
+    z-index: 100001;
+    border: 1px solid #aaa;
+    background: #fff;
+    box-shadow: 0 3px 10px #aaa;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+.liquid_blocks_modal_gallery h3 {
+    font-size: medium;
+    font-weight: bold;
+    margin: 1rem 0;
+    padding: 1rem .5rem;
+    background-color: #f1f1f1;
+}
+.liquid_blocks_modal_gallery h3 small {
+    display: inline-block;
+    background-color: #00000012;
+    padding: 1px 7px;
+    border-radius: 5px;
+}
+.liquid_blocks_modal_gallery > a {
+    display: inline-block;
+    position: relative;
+    width: 30%;
+    height: auto;
+    margin: 1%;
+    padding: 3px;
+    cursor: pointer;
+    font-size: small;
+    text-align: center;
+    border: 1px solid #ccc;
+    line-height: 0;
+    transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+}
+.liquid_blocks_modal_gallery > a:hover {
+    opacity: 0.7;
+}
+.liquid_blocks_modal_gallery > a img {
+    width: 100%;
+    height: auto;
+}
+.liquid_blocks_modal_gallery > a span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    padding: .25rem;
+    font-size: small;
+    line-height: 1;
+    background-color: #ffffffb3;
+}
+.liquid_blocks_modal_gallery > a.liquid_noimage span {
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.liquid_blocks_modal.multiple .liquid_blocks_modal_gallery > a {
+    opacity: 0.7;
+    border: 1px dashed #ccc;
+}
+.liquid_blocks_modal.multiple .liquid_blocks_modal_gallery > a.active {
+    opacity: 1;
+    border: 1px solid #ccc;
+    background-color: #32BDEB;
+}
+.liquid_blocks_modal.multiple .liquid_blocks_modal_gallery > a:focus,
+.liquid_blocks_modal.multiple .liquid_blocks_modal_gallery > a:active {
+    background-color: #fff;
+}
+
+.liquid_blocks_buttons {
+    width: 0;
+    height: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.liquid_blocks_buttons.active {
+    display: block !important;
+    width: auto;
+    height: auto;
+    z-index: 100001;
+}
+.liquid_blocks_btn {
+    display: inline-block;
+    border: 1px solid #aaa;
+    border-top: 0 none;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 3px 10px #aaa;
+    padding: .5rem 1rem;
+    background: #fff;
+    color: #333;
+    cursor: pointer;
+    margin-right: 3px;
+}
+#liquid_blocks_insert, #liquid_blocks_copy {
+    background-color: #32BDEB;
+    color: #fff;
+}
+
+.liquid_blocks_buttons.loading {
+    opacity: 0.7;
+    cursor: wait;
+}
+.liquid_blocks_buttons.loading .liquid_blocks_btn {
+    pointer-events: none;
+}

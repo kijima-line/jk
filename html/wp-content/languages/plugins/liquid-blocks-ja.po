@@ -1,0 +1,145 @@
+# Translation of Plugins - LIQUID BLOCKS GALLERY 37+ Free Designs - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - LIQUID BLOCKS GALLERY 37+ Free Designs - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-26 05:11:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - LIQUID BLOCKS GALLERY 37+ Free Designs - Development (trunk)\n"
+
+#: liquid-blocks.php:421
+msgid "Enter any name, gallery category name, and number."
+msgstr "名前、ギャラリーカテゴリ名、番号を入力します。"
+
+#: liquid-blocks.php:421
+msgid "Sidebar shortcut button settings."
+msgstr "サイドバーのショートカットボタン設定"
+
+#: liquid-blocks.php:414
+msgid "Enable default block pattern"
+msgstr "デフォルトのブロックパターンを有効にする"
+
+#: liquid-blocks.php:413
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: liquid-blocks.php:262
+msgid "Press the Enter key."
+msgstr "エンターキーを押します。"
+
+#: liquid-blocks.php:253 liquid-blocks.php:260
+msgid "Block Pattern Category"
+msgstr "ブロックパターンカテゴリー"
+
+#: liquid-blocks.php:227
+msgid "Edit"
+msgstr "編集"
+
+#: liquid-blocks.php:225 liquid-blocks.php:226 liquid-blocks.php:261
+msgid "Add New"
+msgstr "新規追加"
+
+#: liquid-blocks.php:224
+msgid "Block Pattern List"
+msgstr "ブロックパターン一覧"
+
+#: liquid-blocks.php:221 liquid-blocks.php:222 liquid-blocks.php:223
+msgid "Block Pattern"
+msgstr "ブロックパターン"
+
+#: liquid-blocks.php:217 liquid-blocks.php:411 liquid-blocks.php:412
+#: lib/block.js:286 src/block.js:233
+msgid "Block Pattern Manager"
+msgstr "ブロックパターン管理"
+
+#: liquid-blocks.php:187
+msgid "Close"
+msgstr "閉じる"
+
+#: liquid-blocks.php:186
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: liquid-blocks.php:185
+msgid "Select"
+msgstr "選択"
+
+#: liquid-blocks.php:184
+msgid "Insert"
+msgstr "挿入"
+
+#: liquid-blocks.php:183
+msgid "Copy"
+msgstr "コピー"
+
+#: liquid-blocks.php:137 liquid-blocks.php:291
+msgid "Untitled block"
+msgstr "無題のブロック"
+
+#: liquid-blocks.php:130
+msgid "Block Patterns"
+msgstr "ブロックパターン"
+
+#: liquid-blocks.php:420 lib/block.js:91 src/block.js:76
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+#: liquid-blocks.php:433
+msgid "Enable"
+msgstr "有効"
+
+#: liquid-blocks.php:396
+msgid "Recommend"
+msgstr "おすすめ"
+
+#: liquid-blocks.php:365
+msgid "illegal data"
+msgstr "不正データ"
+
+#: liquid-blocks.php:177
+msgid "Recommended Plugins"
+msgstr "おすすめプラグイン"
+
+#: liquid-blocks.php:175
+msgid "Landing pages"
+msgstr "ランディングページ"
+
+#: liquid-blocks.php:173
+msgid "CTA: Call To Action"
+msgstr "CTA: コールトゥアクション"
+
+#: liquid-blocks.php:171
+msgid "Price list"
+msgstr "料金表"
+
+#: liquid-blocks.php:169 lib/block.js:64 src/block.js:57
+msgid "Layouts"
+msgstr "レイアウト"
+
+#: liquid-blocks.php:167
+msgid "Headlines"
+msgstr "ヘッドライン"
+
+#: liquid-blocks.php:86 liquid-blocks.php:403 lib/block.js:216 src/block.js:173
+msgid "Settings"
+msgstr "設定"
+
+#. Author URI of the plugin
+msgid "https://lqd.jp/wp/"
+msgstr "https://lqd.jp/wp/"
+
+#. Author of the plugin
+msgid "LIQUID DESIGN Ltd."
+msgstr "LIQUID DESIGN Ltd."
+
+#. Description of the plugin
+msgid "A magic tool to master WordPress blocks."
+msgstr "WordPress ブロックをマスターするための魔法のツール。"
+
+#. Plugin URI of the plugin
+msgid "https://lqd.jp/wp/plugin.html"
+msgstr "https://lqd.jp/wp/plugin.html"

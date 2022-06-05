@@ -1,0 +1,2046 @@
+# Translation of Themes - Sydney in Japanese
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-12 14:12:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Theme Name of the theme
+#: inc/extras.php:332 inc/onboarding/theme-info.php:136
+#: inc/theme-dashboard-settings.php:21
+#, gp-priority: high
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer/controls/class_sydney_upsell_message.php:34
+msgid "Learn More"
+msgstr "もっと詳しく知る"
+
+#: inc/classes/class-sydney-modules.php:28 inc/theme-dashboard-settings.php:64
+msgid "Templates Module"
+msgstr "テンプレートモジュール"
+
+#: inc/woocommerce.php:656
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: inc/customizer/options/woocommerce.php:960
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: inc/customizer/options/woocommerce.php:942
+msgid "Button background color"
+msgstr "ボタン背景色"
+
+#: inc/customizer/options/woocommerce.php:925
+msgid "Hide button icon"
+msgstr "ボタンアイコンを非表示"
+
+#: inc/customizer/options/woocommerce.php:772
+msgid "Card background"
+msgstr "カードの背景"
+
+#: inc/customizer/options/woocommerce.php:563
+msgid "Cart"
+msgstr "カート"
+
+#: inc/customizer/options/woocommerce.php:448 inc/woocommerce.php:1203
+msgid "Sale!"
+msgstr "セール !"
+
+#: inc/customizer/options/woocommerce.php:276
+msgid "Add to cart button"
+msgstr "カートに追加ボタン"
+
+#: inc/customizer/options/woocommerce.php:161
+msgid "Page title"
+msgstr "ページタイトル"
+
+#: inc/customizer/options/woocommerce.php:74
+msgid "Layout type"
+msgstr "レイアウトタイプ"
+
+#: inc/customizer/options/woocommerce-single.php:220
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/customizer/options/woocommerce-single.php:201
+#: inc/customizer/options/woocommerce.php:469
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/customizer/options/woocommerce-single.php:162
+msgid "SKU"
+msgstr "商品コード"
+
+#: inc/customizer/options/woocommerce-single.php:143
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/customizer/options/woocommerce-single.php:123
+msgid "Gallery columns"
+msgstr "ギャラリーの列数"
+
+#: inc/customizer/options/woocommerce-single.php:70
+msgid "Product Image"
+msgstr "商品画像"
+
+#: inc/customizer/options/blog-single.php:372
+msgid "Author box"
+msgstr "投稿者ボックス"
+
+#: inc/customizer/options/blog-single.php:407
+msgid "Related posts"
+msgstr "関連記事"
+
+#: inc/customizer/options/blog.php:141
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/options/blog.php:221
+msgid "Image size"
+msgstr "画像サイズ"
+
+#: inc/customizer/options/blog.php:358
+msgid "Show excerpt"
+msgstr "抜粋を表示"
+
+#: inc/customizer/options/blog.php:398
+msgid "Read more link"
+msgstr "「続きを読む」リンク"
+
+#: inc/customizer/options/blog.php:446
+msgid "Below excerpt"
+msgstr "抜粋の下"
+
+#: inc/customizer/options/blog.php:479
+msgid "Show author avatar"
+msgstr "投稿者アバターを表示"
+
+#: functions.php:681 functions.php:694
+msgid "Important: "
+msgstr "重要:"
+
+#: functions.php:683
+msgid "Update to v5"
+msgstr "v5にアップデート"
+
+#: inc/customizer/options/footer.php:83
+msgid "Disabled"
+msgstr "停止中"
+
+#: inc/customizer/options/footer.php:87
+msgid "1 column"
+msgstr "1カラム"
+
+#: inc/customizer/options/footer.php:91 inc/customizer/options/footer.php:95
+#: inc/customizer/options/footer.php:99
+msgid "2 columns"
+msgstr "2カラム"
+
+#: inc/customizer/options/footer.php:103 inc/customizer/options/footer.php:107
+#: inc/customizer/options/footer.php:111
+msgid "3 columns"
+msgstr "3カラム"
+
+#: inc/customizer/options/footer.php:115 inc/customizer/options/footer.php:119
+#: inc/customizer/options/footer.php:123
+msgid "4 columns"
+msgstr "4カラム"
+
+#: inc/customizer/controls/repeater/class_sydney_repeater.php:32
+msgid "Add"
+msgstr "追加"
+
+#: inc/customizer/options/footer.php:40
+msgid "Footer widgets"
+msgstr "フッターウィジェット"
+
+#: inc/customizer/options/blog.php:315 inc/customizer/options/footer.php:172
+msgid "Top"
+msgstr "トップ"
+
+#: inc/customizer/options/blog-single.php:117
+#: inc/customizer/options/blog.php:316 inc/customizer/options/footer.php:173
+msgid "Middle"
+msgstr "中央"
+
+#: inc/customizer/options/blog.php:317 inc/customizer/options/footer.php:174
+#: inc/customizer/options/header.php:480
+msgid "Bottom"
+msgstr "下"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 1"
+msgstr "ウィジェットエリア1"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 2"
+msgstr "ウィジェットエリア2"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 3"
+msgstr "ウィジェットエリア3"
+
+#: inc/customizer/options/footer.php:217
+msgid "Widget area 4"
+msgstr "ウィジェットエリア4"
+
+#: inc/customizer/options/footer.php:256
+msgid "Widget titles color"
+msgstr "ウィジェットタイトルの色"
+
+#: inc/customizer/options/footer.php:294
+msgid "Links color"
+msgstr "リンクの色"
+
+#: inc/customizer/options/footer.php:313
+msgid "Links color (hover)"
+msgstr "リンクの色 (ホバー)"
+
+#: inc/customizer/options/general.php:122
+msgid "Scroll to top"
+msgstr "トップへスクロール"
+
+#: inc/customizer/options/general.php:159
+msgid "Enable scroll to top"
+msgstr "トップへスクロールを有効化"
+
+#: inc/customizer/options/general.php:176
+#: inc/customizer/options/general.php:209
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/options/general.php:177
+msgid "Text + Icon"
+msgstr "テキスト + アイコン"
+
+#: inc/customizer/options/general.php:187 inc/extras.php:267
+msgid "Back to top"
+msgstr "トップへ戻る"
+
+#: inc/customizer/options/blog.php:280 inc/customizer/options/general.php:191
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer/options/general.php:214
+msgid "Icon 1"
+msgstr "アイコン1"
+
+#: inc/customizer/options/general.php:218
+msgid "Icon 2"
+msgstr "アイコン２"
+
+#: inc/customizer/options/general.php:222
+msgid "Icon 3"
+msgstr "アイコン3"
+
+#: inc/customizer/options/general.php:226
+msgid "Icon 4"
+msgstr "アイコン4"
+
+#: inc/customizer/options/general.php:243
+#: inc/customizer/options/general.php:597
+msgid "Button radius"
+msgstr "ボタンの丸み"
+
+#: inc/customizer/options/blog-single.php:268
+#: inc/customizer/options/blog.php:442 inc/customizer/options/general.php:279
+msgid "Position"
+msgstr "配置"
+
+#: inc/customizer/options/general.php:380
+msgid "Icon color"
+msgstr "アイコンの色"
+
+#: inc/customizer/options/general.php:431
+msgid "Icon hover color"
+msgstr "ホバー時のアイコンの色"
+
+#: inc/customizer/options/general.php:450
+msgid "Background hover color"
+msgstr "ホバー時の背景色"
+
+#: inc/customizer/options/general.php:477
+msgid "Icon size"
+msgstr "アイコンサイズ"
+
+#: inc/theme-dashboard-settings.php:47
+msgid "Multiple blog layouts"
+msgstr "複数のブログレイアウト"
+
+#: theme-dashboard/class-theme-dashboard.php:688
+msgid "Join Our Community"
+msgstr "コミュニティーに参加"
+
+#: inc/customizer/options/general.php:92
+msgid "Enable Schema markup"
+msgstr "スキーママークアップを有効化"
+
+#: theme-dashboard/class-theme-dashboard.php:657
+msgid "Get Support"
+msgstr "サポートを受ける"
+
+#: theme-dashboard/class-theme-dashboard.php:752
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: theme-dashboard/class-theme-dashboard.php:725
+msgid "Review"
+msgstr "レビュー"
+
+#: theme-dashboard/class-theme-dashboard.php:529
+msgid "Starter Sites"
+msgstr "スターターサイト"
+
+#: theme-dashboard/class-theme-dashboard.php:684
+msgid "Community"
+msgstr "コミュニティ"
+
+#: theme-dashboard/class-theme-dashboard.php:745
+msgid "Suggest an Idea"
+msgstr "アイディアを提案"
+
+#: theme-dashboard/class-theme-dashboard.php:734
+msgid "Submit a Review"
+msgstr "レビューを投稿"
+
+#: theme-dashboard/class-theme-dashboard.php:492
+msgid "👋🏻"
+msgstr "👋🏻"
+
+#: theme-dashboard/class-theme-dashboard.php:762
+msgid "See the Changelog"
+msgstr "変更履歴を表示"
+
+#: theme-dashboard/class-theme-dashboard.php:644
+msgid "Priority Status"
+msgstr "優先ステータス"
+
+#: theme-dashboard/class-theme-dashboard.php:695
+msgid "Join Now"
+msgstr "今すぐ参加"
+
+#: theme-dashboard/class-theme-dashboard.php:484
+msgid "Hello, "
+msgstr "こんにちは、"
+
+#: theme-dashboard/class-theme-dashboard.php:650
+msgid "Need help? We're here for you!"
+msgstr "ヘルプが必要ですか？私たちが助けになります。"
+
+#: theme-dashboard/class-theme-dashboard.php:667
+msgid "pro"
+msgstr "有料版"
+
+#: inc/customizer/options/performance.php:11
+#: inc/theme-dashboard-settings.php:232
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: inc/classes/class-sydney-modules.php:40
+#: inc/classes/class-sydney-modules.php:49
+#: inc/classes/class-sydney-modules.php:58
+#: inc/classes/class-sydney-modules.php:67
+#: inc/classes/class-sydney-modules.php:76
+#: theme-dashboard/class-theme-dashboard.php:389
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: inc/customizer/options/general.php:518
+#: inc/customizer/options/woocommerce.php:907
+#: inc/theme-dashboard-settings.php:194
+msgid "Buttons"
+msgstr "ボタン"
+
+#: inc/theme-dashboard-settings.php:245
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: inc/theme-dashboard-settings.php:174
+msgid "Color Options"
+msgstr "色設定"
+
+#: inc/theme-dashboard-settings.php:204
+msgid "Single Projects"
+msgstr "個別プロジェクト"
+
+#: inc/theme-dashboard-settings.php:159
+msgid "Theme Features"
+msgstr "テーマ機能"
+
+#: inc/theme-dashboard-settings.php:219
+msgid "Google Maps"
+msgstr "Google マップ"
+
+#: inc/theme-dashboard-settings.php:169
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/theme-dashboard-settings.php:184
+msgid "Blog Options"
+msgstr "ブログ設定"
+
+#: inc/theme-dashboard-settings.php:214
+msgid "Extra Widget Area"
+msgstr "追加ウィジェットエリア"
+
+#: inc/theme-dashboard-settings.php:14
+msgid "Differences between Sydney and Sydney Pro"
+msgstr "Sydney と Sydney Pro の違い"
+
+#: inc/theme-dashboard-settings.php:189
+msgid "Footer Credits"
+msgstr "フッターのクレジット"
+
+#: inc/theme-dashboard-settings.php:226
+msgid "Free vs PRO"
+msgstr "無料版と有料版"
+
+#: theme-dashboard/class-theme-dashboard.php:109
+#: theme-dashboard/class-theme-dashboard.php:534
+#: theme-dashboard/class-theme-dashboard.php:585
+msgid "Theme Dashboard"
+msgstr "テーマダッシュボード"
+
+#: inc/theme-dashboard-settings.php:179
+msgid "Font Options"
+msgstr "フォント設定"
+
+#: inc/notices/class-sydney-review.php:67
+msgid "I already did"
+msgstr "すでにしました"
+
+#: inc/notices/class-sydney-review.php:65
+msgid "Maybe later"
+msgstr "後で確認"
+
+#: inc/notices/class-sydney-review.php:63
+msgid "Sure"
+msgstr "もちろんです"
+
+#: inc/integrations/learnpress/customize.php:12
+msgid "Learnpress"
+msgstr "Learnpress"
+
+#: inc/integrations/learndash/customize.php:12
+msgid "Learndash"
+msgstr "Learndash"
+
+#: inc/integrations/lifter/customize.php:225
+msgid "Single course"
+msgstr "個別講座"
+
+#: inc/integrations/learndash/customize.php:48
+#: inc/integrations/learndash/customize.php:81
+#: inc/integrations/lifter/customize.php:68
+#: inc/integrations/lifter/customize.php:122
+msgid "Sidebar layout"
+msgstr "サイドバーレイアウト"
+
+#: inc/integrations/learndash/customize.php:52
+#: inc/integrations/learndash/customize.php:85
+#: inc/integrations/learnpress/customize.php:32
+#: inc/integrations/learnpress/customize.php:54
+#: inc/integrations/lifter/customize.php:72
+#: inc/integrations/lifter/customize.php:126
+msgid "Sidebar left"
+msgstr "サイドバー左"
+
+#: inc/integrations/learndash/customize.php:53
+#: inc/integrations/learndash/customize.php:86
+#: inc/integrations/learnpress/customize.php:33
+#: inc/integrations/learnpress/customize.php:55
+#: inc/integrations/lifter/customize.php:73
+#: inc/integrations/lifter/customize.php:127
+msgid "Sidebar right"
+msgstr "サイドバー右"
+
+#: inc/integrations/lifter/customize.php:138
+msgid "Styling"
+msgstr "スタイリング"
+
+#: inc/integrations/lifter/customize.php:243
+msgid "Course title"
+msgstr "コースのタイトル"
+
+#: inc/integrations/lifter/customize.php:46
+msgid "Course catalog columns"
+msgstr "コースカタログのカラム"
+
+#: inc/integrations/lifter/customize.php:12
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/integrations/lifter/customize.php:308
+msgid "Lesson title"
+msgstr "レッスンタイトル"
+
+#: inc/customizer/customizer.php:741
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/customizer/customizer.php:740 inc/customizer/options/header.php:582
+#: inc/extras.php:570
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customizer/customizer.php:787 inc/customizer/options/header.php:597
+msgid "Button text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer/customizer.php:718 inc/customizer/options/footer.php:155
+#: inc/customizer/options/footer.php:394 inc/customizer/options/footer.php:562
+#: inc/customizer/options/footer.php:740 inc/customizer/options/header.php:313
+#: inc/customizer/options/header.php:944
+msgid "Contained"
+msgstr "含まれる"
+
+#: inc/customizer/customizer.php:919
+msgid "Custom HTML"
+msgstr "カスタム HTML"
+
+#: inc/customizer/customizer.php:739
+msgid "Nothing"
+msgstr "なし"
+
+#: inc/customizer/customizer.php:770 inc/customizer/options/header.php:611
+msgid "Button link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/customizer.php:864
+#: inc/customizer/options/woocommerce.php:1000
+msgid "Button font size"
+msgstr "ボタンのフォントサイズ"
+
+#: inc/customizer/customizer.php:823
+msgid "Top/bottom button padding"
+msgstr "上下のボタン余白"
+
+#: inc/customizer/customizer.php:655
+msgid "Menu layout"
+msgstr "メニューの配置"
+
+#: inc/customizer/customizer.php:780 inc/extras.php:177
+msgid "Get in touch"
+msgstr "お問い合わせください"
+
+#: inc/customizer/options/woocommerce-single.php:14
+msgid "Single products"
+msgstr "個別商品"
+
+#: inc/customizer/customizer.php:736
+msgid "Header custom item"
+msgstr "ヘッダーのカスタム項目"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:37
+msgid "[aThemes Testimonials] Testimonial"
+msgstr "[aThemes Testimonials] お客様の声"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:34
+msgid "[aThemes Testimonials] Position"
+msgstr "[aThemes Testimonials] 配置"
+
+#: inc/integrations/wpml/class-sydney-wpml-testimonials.php:31
+msgid "[aThemes Testimonials] Name"
+msgstr "[aThemes Testimonials] 名前"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:31
+msgid "[aThemes Portfolio] Title"
+msgstr "[aThemes Portfolio] タイトル"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:34
+msgid "[aThemes Portfolio] Term"
+msgstr "[aThemes Portfolio] ターム"
+
+#: inc/integrations/wpml/class-sydney-wpml-portfolio.php:37
+msgid "[aThemes Portfolio] Link"
+msgstr "[aThemes Portfolio] リンク"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:34
+msgid "[aThemes Employees] Position"
+msgstr "[aThemes Employees] 配置"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:31
+msgid "[aThemes Employees] Name"
+msgstr "[aThemes Employees] 名前"
+
+#: inc/integrations/wpml/class-sydney-wpml-employee-carousel.php:37
+msgid "[aThemes Employees] Link"
+msgstr "[aThemes Employees] リンク"
+
+#: inc/integrations/wpml/class-sydney-wpml.php:38
+msgid "[aThemes Posts] See all button text"
+msgstr "[aThemes Posts] すべてのボタンテキストを表示"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:107
+#: theme-dashboard/class-theme-dashboard.php:372
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+msgid "Jetpack Portfolio"
+msgstr "Jetpack ポートフォリオ"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:155
+msgid "Activating "
+msgstr "有効化中 "
+
+#: inc/onboarding/theme-info.php:106
+msgid "Header options"
+msgstr "ヘッダー設定"
+
+#: inc/onboarding/theme-info.php:108
+msgid "Font options"
+msgstr "フォント設定"
+
+#: inc/onboarding/theme-info.php:248
+msgid "View Sydney Pro"
+msgstr "Sydney Pro を表示"
+
+#: inc/onboarding/theme-info.php:257
+msgid "Submit a review here"
+msgstr "ここでレビューを投稿"
+
+#: inc/onboarding/theme-info.php:263
+msgid "See the changelog"
+msgstr "変更履歴を表示"
+
+#: inc/onboarding/theme-info.php:103
+msgid "Styling with the Customizer"
+msgstr "カスタマイザーを使ったスタイル調整"
+
+#: inc/customizer/controls/typography/class_sydney_typography.php:106
+msgid "Font weight"
+msgstr "フォントウエイト"
+
+#: inc/onboarding/theme-info.php:48
+msgid "Install recommended plugins"
+msgstr "推奨プラグインをインストール"
+
+#: inc/classes/class-sydney-posts-archive.php:232
+#: theme-dashboard/class-theme-dashboard.php:422
+#: theme-dashboard/class-theme-dashboard.php:442
+#: theme-dashboard/class-theme-dashboard.php:462
+msgid "Read more"
+msgstr "続きを読む"
+
+#: inc/customizer/customizer.php:1090
+msgid "Modern"
+msgstr "モダン"
+
+#: inc/customizer/customizer.php:285 inc/customizer/customizer.php:1189
+msgid "Click the pencil icon to change this text"
+msgstr "えんぴつアイコンをクリックしてテキストを変更"
+
+#: inc/customizer/customizer.php:303 inc/customizer/customizer.php:1205
+msgid "or go to the Customizer"
+msgstr "またはカスタマイザーへ移動"
+
+#. Template Name of the theme
+#: inc/integrations/learndash/customize.php:51
+#: inc/integrations/learndash/customize.php:84
+#: inc/integrations/learnpress/customize.php:31
+#: inc/integrations/learnpress/customize.php:53
+#: inc/integrations/lifter/customize.php:71
+#: inc/integrations/lifter/customize.php:125
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "ページビルダー対応"
+
+#: inc/customizer/customizer.php:1089
+msgid "Classic (alternative)"
+msgstr "クラッシック (代替)"
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "%s さんこんにちは。"
+
+#: inc/onboarding/theme-info.php:242
+msgid "Priority support"
+msgstr "優先サポート"
+
+#: inc/onboarding/theme-info.php:107 inc/onboarding/theme-info.php:182
+msgid "Color options"
+msgstr "カラーオプション"
+
+#: inc/onboarding/theme-info.php:232
+msgid "WooCommerce compatible"
+msgstr "WooCommerce 互換"
+
+#: inc/onboarding/theme-info.php:172
+msgid "Translation ready"
+msgstr "翻訳対応"
+
+#: inc/onboarding/theme-info.php:167
+msgid "Front Page Blocks"
+msgstr "フロントページ構成ブロック"
+
+#: inc/onboarding/theme-info.php:162
+msgid "Slider, image or video header"
+msgstr "スライダー、画像または動画ヘッダー"
+
+#: inc/onboarding/theme-info.php:157
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/onboarding/theme-info.php:152
+msgid "Parallax backgrounds"
+msgstr "背景パララックス"
+
+#: inc/onboarding/theme-info.php:227
+msgid "Single Post/Page Options"
+msgstr "投稿ページ、固定ページオプション"
+
+#: inc/onboarding/theme-info.php:127
+msgid "See the Documentation"
+msgstr "ドキュメントを見る"
+
+#: inc/onboarding/theme-info.php:121
+msgid "Visit the forums"
+msgstr "フォーラムを見る"
+
+#: inc/onboarding/theme-info.php:119
+msgid "Visit our forums"
+msgstr "フォーラムを見る"
+
+#: inc/onboarding/theme-info.php:95
+msgid "Go to the automatic importer"
+msgstr "自動インポーターを見る　"
+
+#: inc/onboarding/theme-info.php:237
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5つの拡張ページテンプレート (お問い合わせ、カスタムヘッダー - 通常, カスタムヘッダー - ワイド、ヘッダー非表示 - 通常、ヘッダー非表示 - ワイド)"
+
+#: inc/onboarding/theme-info.php:212
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "拡張カスタマイズ (フロントページ構成ブロック、単一ユーザー、単一プロジェクト、 ヘッダーお問い合わせ情報、ボタン)"
+
+#: inc/onboarding/theme-info.php:207
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "拡張ウィジェット (タイムライン、最近の投稿のカルーセル、価格表、新しいユーザーのウィジェット、新しいお問い合わせのウィジェット)"
+
+#: inc/onboarding/theme-info.php:126
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "ドキュメントは、テーマの使い方を学ぶのに役立ち、コードスニペットや FAQ への回答を提供します。"
+
+#: inc/onboarding/theme-info.php:192
+msgid "Widgetized footer"
+msgstr "ウィジェット化済みのフッター"
+
+#: inc/onboarding/theme-info.php:142 inc/theme-dashboard-settings.php:27
+msgid "Access to all Google Fonts"
+msgstr "Google フォント"
+
+#: inc/onboarding/theme-info.php:197
+msgid "Background image support"
+msgstr "背景画像対応"
+
+#: inc/onboarding/theme-info.php:217
+msgid "Header support for Crelly Slider"
+msgstr "ヘッダーの Crelly Slider 対応"
+
+#: inc/onboarding/theme-info.php:222
+msgid "Header support for shortcodes"
+msgstr "ヘッダーのショートコード対応"
+
+#: inc/onboarding/theme-info.php:202
+msgid "Footer Credits option"
+msgstr "フッタークレジット設定"
+
+#: inc/onboarding/theme-info.php:177
+msgid "Polylang integration"
+msgstr "Polylang 連携"
+
+#: inc/onboarding/theme-info.php:120
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "ヘルプが必要ですか ? ぜひ、サポートフォーラムにアクセスしてください。テーマに関する質問をお待ちしています。"
+
+#: inc/onboarding/theme-info.php:137 inc/theme-dashboard-settings.php:22
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/customizer/upsell/class-customize.php:77
+msgid "Buy Sydney Pro"
+msgstr "Sydney Pro を購入"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "無料版とプロ版の違い"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:88
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "はじめてみよう"
+
+#: inc/onboarding/theme-info.php:135 inc/theme-dashboard-settings.php:20
+msgid "Feature"
+msgstr "おすすめ"
+
+#: inc/theme-dashboard-settings.php:153
+msgid "Sydney is now installed and ready to go. To help you with the next step, we've gathered together on this page all the resources you might need. We hope you enjoy using Sydney."
+msgstr "Sydney はインストールされ、準備が整いました。次のステップをお手伝いするために、このページに必要なすべてのリソースをまとめました。Sydney をお楽しみください。"
+
+#: inc/customizer/customizer.php:208 inc/customizer/customizer.php:1104
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+#: inc/customizer/customizer.php:204
+msgid "Slider mobile behavior"
+msgstr "モバイル用のスライダー"
+
+#: inc/customizer/customizer.php:209 inc/customizer/customizer.php:1105
+#: inc/onboarding/theme-info.php:147 inc/theme-dashboard-settings.php:32
+msgid "Responsive"
+msgstr "レスポンシブデザイン"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "動画モード: "
+
+#: inc/customizer/options/colors.php:554
+msgid "Mobile menu button"
+msgstr "モバイルメニューボタン"
+
+#: inc/customizer/options/colors.php:499 inc/customizer/options/header.php:827
+msgid "Menu items hover"
+msgstr "メニューアイテムのホバー"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "再生ボタンの前テキスト (lightbox 使用時) :"
+
+#: inc/customizer/options/typography.php:60
+#: inc/customizer/options/typography.php:512 widgets/video-widget.php:28
+msgid "Normal"
+msgstr "通常"
+
+#: inc/customizer/customizer.php:154 inc/customizer/customizer.php:177
+#: inc/customizer/customizer.php:1036
+msgid "Video"
+msgstr "動画"
+
+#: inc/page-builder.php:65 inc/so-page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "列の上下パディングを変更するにはフィールドに値を追加してください。空の場合はデフォルトで 100px が適用されます"
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "全コンテンツ"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "表示するコンテンツ:"
+
+#: inc/page-builder.php:194 inc/so-page-builder.php:194
+msgid "Headings color"
+msgstr "見出しの色"
+
+#: inc/page-builder.php:187 inc/so-page-builder.php:187
+msgid "Widget title color"
+msgstr "ウィジェットのタイトルの色"
+
+#: inc/customizer/options/blog-single.php:70
+#: inc/customizer/options/blog.php:122 inc/customizer/options/blog.php:207
+#: inc/customizer/options/general.php:283 inc/customizer/options/header.php:296
+#: inc/customizer/options/header.php:418
+#: inc/customizer/options/woocommerce.php:109 inc/page-builder.php:180
+#: inc/so-page-builder.php:180
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/options/header.php:295 inc/page-builder.php:179
+#: inc/so-page-builder.php:179
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer/options/blog-single.php:69
+#: inc/customizer/options/blog-single.php:116
+#: inc/customizer/options/blog.php:121 inc/customizer/options/blog.php:206
+#: inc/customizer/options/general.php:282 inc/customizer/options/header.php:294
+#: inc/customizer/options/header.php:406
+#: inc/customizer/options/woocommerce.php:105 inc/page-builder.php:178
+#: inc/so-page-builder.php:178
+msgid "Left"
+msgstr "左"
+
+#: inc/page-builder.php:174 inc/so-page-builder.php:174
+msgid "Content alignment"
+msgstr "コンテンツの配置"
+
+#: inc/page-builder.php:113 inc/so-page-builder.php:113
+msgid "Overlay color"
+msgstr "オーバーレイの色"
+
+#: inc/page-builder.php:107 inc/so-page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "オーバーレイ効果を無効にする"
+
+#: inc/customizer/options/blog-single.php:99
+#: inc/customizer/options/colors.php:402 inc/customizer/options/header.php:14
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/page-builder.php:183 inc/so-page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "この設定はコンテンツに依存しますので、動作しない場合もあるかもしれません"
+
+#: inc/page-builder.php:198 inc/so-page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "ウィジェットタイトル以外のウィジェット内の見出しすべてに適用されます。"
+
+#: inc/theme-dashboard-settings.php:289
+msgid "Get Sydney Pro"
+msgstr "Sydney Pro を入手"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "プロジェクトをグリッドで表示します。"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "シドニーフロントページ: ポートフォリオ"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "すべて表示"
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "表示するプロジェクト数 (-1ですべて表示):"
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "カテゴリースラッグを入力します (カンマ区切り) 空欄で、すべてのプロジェクトを表示します。"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "ナビゲーションフィルターを表示する (カテゴリースラッグの入力が必要です) 。"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "「すべて表示」テキスト:"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "プロジェクトのタイトルを表示します。"
+
+#: inc/customizer/options/general.php:67
+msgid "Page wrapper - bottom padding"
+msgstr "ページ全体の下の余白"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "お客様へのリンクを新しいウィンドウで開く。"
+
+#: inc/customizer/options/general.php:37
+msgid "83"
+msgstr "83"
+
+#: inc/customizer/options/general.php:60
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/options/general.php:44
+msgid "Page wrapper - top padding"
+msgstr "ページ全体の上の余白"
+
+#: inc/customizer/options/general.php:47
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "ページ全体上部の余白 (ヘッダーとページタイトルの間の余白)"
+
+#: inc/customizer/options/general.php:70
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "ページ全体下部の余白 (ページコンテンツとフッターの間の余白)"
+
+#: inc/onboarding/theme-info.php:39
+#: theme-dashboard/class-theme-dashboard.php:641
+msgid "Support"
+msgstr "サポート"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "自動再生時間[ミリ秒]"
+
+#: inc/onboarding/theme-info.php:125
+#: theme-dashboard/class-theme-dashboard.php:576
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Sydney Info"
+msgstr "「シドニー」の情報"
+
+#. Template Name of the theme
+#: inc/customizer/customizer.php:719
+msgid "Full width"
+msgstr "全幅"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "スライダーでのお客様の声を表示します。"
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "シドニーフロントページ: お客様の声"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "このウィジェットを表示するには、先に管理画面からお客様の声を1つ以上追加してください。"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "表示するお客様の声の数 (-1ですべて表示):"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "ボタンの URL [お客様の声ブロックの下にボタンを設置する場合]"
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "ボタンのテキスト [空欄で、「お客様の声をすべて見る」と表示します]"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのカテゴリーの投稿を表示します。"
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "お客様の声をすべて見る"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Youtube、Vimeo などのビデオを表示します。"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "シドニー: 動画"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "ビデオの URL を貼り付けます (Youtube, Vimeo など、オンライン上の oEmbed 対応 URL に限る):"
+
+#: widgets/fp-social.php:65
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: widgets/fp-social.php:63
+msgid "Select your social menu:"
+msgstr "ソーシャルメニューを選択:"
+
+#: widgets/fp-social.php:61
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "ウィジェットに SNS アイコンを入力するには、<strong>「外観」>「メニュー」</strong>で SNS プロフィールのリンクを含むメニューを作成し、ここにメニューを登録します。対応するネットワーク: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:53
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "メニューはまだ作成されていません。<a href=\"%s\">作成する</a>。"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "あなたのスキルを訪問者に紹介します。"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "シドニーフロントページ: スキル"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "1つ目のスキル名"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "1つ目のスキル値"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "1つ目のスキル名"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "2つ目のスキル値"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "3つ目のスキル名"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "3つ目のスキル値"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "4つ目のスキル名"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "4つ目のスキル値"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "フロントページにソーシャルプロフィールを表示"
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "シドニーフロントページ: ソーシャルプロフィール"
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "列の数:"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "テキストを少し追加。表示されます。"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "ここからリスト項目を追加します。一行につき一項目、各行を <strong>^</strong> で始めます。例: <strong>^ リスト項目 </strong>"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "行動喚起ボタンの URL:"
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "行動喚起ボタンのテキスト:"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "どのようなサービスを提供しているか表示します。"
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "シドニーフロントページ: サービスタイプA"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "このウィジェットを表示するには、先に管理画面からサービスを1つ以上追加してください。"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "表示するサービス数 (-1ですべて表示):"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "ボタンの URL [サービスブロックの下にボタンを設置する場合]"
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "ボタンのテキスト [空欄で、「サービスをすべて見る」と表示します]"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのサービスを表示します。"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "サービスを3列ではなく2列で表示する。"
+
+#: widgets/fp-services-type-a.php:147 widgets/fp-services-type-b.php:162
+msgid "See all our services"
+msgstr "サービスをすべて見る"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "シドニーフロントページ: サービスタイプB"
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "ボタンとテキストを1行で表示。"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "お客様リストを表示。"
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "シドニーフロントページ: 取引先"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "このウィジェットを表示するには、先に管理画面からお客様を1つ以上登録してください。ロゴをアイキャッチ画像として設定してください。"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "ボタンの URL [お客様ブロックの下にボタンを設置する場合]"
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "ボタンのテキスト [空欄で、「お客様をすべて見る」と表示します]"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのお客様を表示します。"
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "お客様をすべて見る"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "チームメンバーをおしゃれに表示します。"
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "シドニーフロントページ: メンバー"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "このウィジェットを表示するには、管理画面からメンバーを1人以上登録します。必要なだけ追加すると、テーマが自動的に全員表示します。"
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "表示するメンバー数 (-1ですべて表示):"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "セクションからリンクさせたい URL を入力します。"
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "ボタンのテキスト [空欄で、「メンバーをすべて見る」と表示します]"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのメンバー表示します。"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "メンバーを中央揃えにする (1~2名の場合に使用します)"
+
+#: widgets/fp-employees.php:143
+msgid "See all our employees"
+msgstr "メンバーをすべて見る"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "会社にまつわるデータを訪問者に紹介します。"
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "シドニーフロントページ: データ"
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "利用可能なアイコンを探しましょう。"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "こちらから。"
+
+#: widgets/fp-facts.php:45
+msgid "First fact name"
+msgstr "1つ目のデータ名"
+
+#: widgets/fp-facts.php:50
+msgid "First fact value"
+msgstr "1つ目のデータ内容"
+
+#: widgets/fp-facts.php:55
+msgid "First fact icon"
+msgstr "1つ目のデータ用アイコン"
+
+#: widgets/fp-facts.php:61
+msgid "Second fact name"
+msgstr "2つ目のデータ名"
+
+#: widgets/fp-facts.php:66
+msgid "Second fact value"
+msgstr "2つ目のデータ内容"
+
+#: widgets/fp-facts.php:71
+msgid "Second fact icon"
+msgstr "2つ目のデータ用アイコン"
+
+#: widgets/fp-facts.php:77
+msgid "Third fact name"
+msgstr "3つ目のデータ名"
+
+#: widgets/fp-facts.php:82
+msgid "Third fact value"
+msgstr "3つ目のデータ内容"
+
+#: widgets/fp-facts.php:87
+msgid "Third fact icon"
+msgstr "3つ目のデータ用アイコン"
+
+#: widgets/fp-facts.php:93
+msgid "Fourth fact name"
+msgstr "4つ目のデータ名"
+
+#: widgets/fp-facts.php:98
+msgid "Fourth fact value"
+msgstr "4つ目のデータ内容"
+
+#: widgets/fp-facts.php:103
+msgid "Fourth fact icon"
+msgstr "4つ目のデータ用アイコン"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "ブログの最新ニュースを表示します。"
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "シドニーフロントページ: 最新ニュース"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "カテゴリーのスラッグを入力するか、空白にしてすべてのカテゴリーの投稿を表示します。"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "ボタンのテキストを、標準の「ニュースをすべて見る」から変更したい場合はここに追加します。"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "ニュースをすべて見る"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "シンプルリストウィジェット"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "シドニーフロントページ: リスト"
+
+#: widgets/fp-facts.php:35
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "使用例: <strong>fa-android</strong>"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "表示するお客様の数 (-1 ですべて表示): "
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:58
+msgid "Title:"
+msgstr "タイトル:"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "電話番号を入力"
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "メールアドレスを入力"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "行動喚起ブロックを表示。"
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "シドニーフロントページ: 行動喚起"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "行動喚起を入力します。"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "ボタンのリンク"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "ボタンのタイトル"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "住所を入力してください"
+
+#: inc/customizer/options/woocommerce.php:303 widgets/contact-info.php:20
+#: widgets/fp-call-to-action.php:18 widgets/fp-clients.php:23
+#: widgets/fp-employees.php:23 widgets/fp-facts.php:39
+#: widgets/fp-latest-news.php:19 widgets/fp-services-type-a.php:30
+#: widgets/fp-services-type-b.php:29 widgets/fp-skills.php:24
+#: widgets/fp-testimonials.php:22 widgets/video-widget.php:20
+msgid "Title"
+msgstr "タイトル"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "連絡先情報を表示"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "シドニー: 連絡先情報"
+
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-sydney-recommended-plugins.php:112
+#: theme-dashboard/class-theme-dashboard.php:368
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/customizer/options/general.php:173
+msgid "Type"
+msgstr "タイプ"
+
+#: inc/template-tags.php:241
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:239
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:235
+msgid "Archives: %s"
+msgstr "アーカイブ: %s"
+
+#: inc/template-tags.php:232
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "ステータス"
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "リンク"
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/template-tags.php:222
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "動画"
+
+#: inc/template-tags.php:220
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "画像"
+
+#: inc/template-tags.php:218
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/template-tags.php:216
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/template-tags.php:213
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:213
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: inc/template-tags.php:211
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:211
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: inc/template-tags.php:209
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:209
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: inc/template-tags.php:207
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:205
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:203
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: inc/template-tags.php:160
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:171
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:184
+msgid "% comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:184
+msgid "1 comment"
+msgstr "1件のコメント"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:345
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/customizer/options/blog-single.php:389 inc/template-tags.php:61
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "新しい投稿"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/page-builder.php:98 inc/so-page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:99 inc/so-page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:100 inc/so-page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:101 inc/so-page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:97 inc/so-page-builder.php:97
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/page-builder.php:93 inc/so-page-builder.php:93
+msgid "Mobile padding"
+msgstr "モバイルの余白"
+
+#: inc/page-builder.php:95 inc/so-page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "画面サイズが 1024px 以下の場合の、行の上下余白を選択"
+
+#: inc/page-builder.php:87 inc/so-page-builder.php:87
+msgid "Background image of the row."
+msgstr "行の背景画像"
+
+#: inc/page-builder.php:85 inc/so-page-builder.php:85
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/page-builder.php:80 inc/so-page-builder.php:80
+msgid "Color of the row."
+msgstr "行の文字色"
+
+#: inc/customizer/options/header-mobile.php:359
+#: inc/customizer/options/woocommerce.php:888 inc/page-builder.php:78
+#: inc/so-page-builder.php:78
+msgid "Color"
+msgstr "色"
+
+#: inc/page-builder.php:44 inc/so-page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "シドニーテーマウィジェット"
+
+#: inc/page-builder.php:63 inc/so-page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "上下の余白"
+
+#: inc/page-builder.php:70 inc/so-page-builder.php:70
+msgid "Center align the content?"
+msgstr "内容を中央揃えにする"
+
+#: inc/page-builder.php:72 inc/so-page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "適用されるかどうかは、ウィジェットスタイルに依存します。"
+
+#: inc/page-builder.php:57 inc/so-page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "下のボーダー色"
+
+#: inc/customizer/options/colors.php:333 inc/customizer/options/footer.php:237
+#: inc/customizer/options/footer.php:640 inc/customizer/options/general.php:399
+#: inc/customizer/options/general.php:715
+#: inc/customizer/options/general.php:797
+#: inc/customizer/options/header-mobile.php:251
+#: inc/customizer/options/header-mobile.php:340
+#: inc/customizer/options/header.php:711
+#: inc/customizer/options/woocommerce.php:868
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/customizer/customizer.php:1007
+msgid "Theme info"
+msgstr "テーマ情報"
+
+#: inc/customizer/customizer.php:1009
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. 「シドニー」のマニュアルはこちら"
+
+#: inc/customizer/customizer.php:1009
+msgid "2. A full theme demo can be found "
+msgstr "2. テーマの完全デモはこちら"
+
+#: inc/customizer/customizer.php:1037
+msgid "Nothing (only menu)"
+msgstr "なし (メニューのみ)"
+
+#: inc/customizer/options/colors.php:421
+msgid "Menu background"
+msgstr "メニュー背景"
+
+#: inc/customizer/options/colors.php:41
+msgid "Primary color"
+msgstr "メインカラー"
+
+#: inc/customizer/options/colors.php:481
+msgid "Top level menu items"
+msgstr "最上位のメニュー項目"
+
+#: inc/customizer/options/colors.php:518
+msgid "Sub-menu items"
+msgstr "サブメニュー項目"
+
+#: inc/customizer/options/colors.php:536
+msgid "Sub-menu background"
+msgstr "サブメニュー背景"
+
+#: inc/customizer/options/colors.php:61
+msgid "Body text"
+msgstr "全体のテキスト"
+
+#: inc/customizer/options/colors.php:609
+msgid "Sidebar background"
+msgstr "サイドバーの背景"
+
+#: inc/customizer/options/colors.php:629
+msgid "Sidebar color"
+msgstr "サイドバーの文字色"
+
+#: inc/customizer/options/colors.php:461
+msgid "Site description"
+msgstr "サイト説明文"
+
+#: inc/customizer/options/colors.php:441
+msgid "Site title"
+msgstr "サイトタイトル"
+
+#: inc/customizer/controls/typography/class_sydney_typography.php:81
+msgid "Font family"
+msgstr "フォント"
+
+#: inc/customizer/customizer.php:1064
+msgid "Three"
+msgstr "3"
+
+#: inc/customizer/customizer.php:1065
+msgid "Four"
+msgstr "4"
+
+#: inc/customizer/customizer.php:1062
+msgid "One"
+msgstr "1"
+
+#: inc/customizer/customizer.php:1063
+msgid "Two"
+msgstr "2"
+
+#: inc/customizer/options/footer.php:217
+msgid "Footer widget areas"
+msgstr "フッターウィジェットエリア"
+
+#: inc/customizer/options/footer.php:29
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/options/blog.php:171
+msgid "Featured image"
+msgstr "アイキャッチ画像"
+
+#: inc/customizer/customizer.php:1091
+msgid "Full width (no sidebar)"
+msgstr "全幅 (サイドバーなし)"
+
+#: inc/customizer/options/blog-single.php:254
+#: inc/customizer/options/blog.php:428
+msgid "Meta"
+msgstr "メタ情報"
+
+#: inc/customizer/customizer.php:1092
+msgid "Masonry (grid style)"
+msgstr "レンガ積み (グリッドスタイル)"
+
+#: inc/customizer/options/blog.php:371
+msgid "Excerpt length"
+msgstr "抜粋の長さ"
+
+#: inc/customizer/customizer.php:1088 inc/customizer/options/blog.php:64
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/customizer/options/blog.php:59
+msgid "Blog layout"
+msgstr "ブログレイアウト"
+
+#: inc/customizer/options/header-mobile.php:54
+#: inc/customizer/options/header.php:246
+#: inc/customizer/options/woocommerce.php:57
+#: inc/customizer/options/woocommerce.php:383
+#: inc/customizer/options/woocommerce.php:488
+#: inc/customizer/options/woocommerce.php:581
+#: inc/customizer/options/woocommerce.php:661
+#: inc/integrations/learndash/customize.php:18
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/customizer.php:959
+msgid "Header height [default: 300px]"
+msgstr "ヘッダーの高さ [既定: 300 px]"
+
+#: inc/customizer/customizer.php:995
+msgid "Upload your logo"
+msgstr "ロゴをアップロード"
+
+#: inc/onboarding/theme-info.php:109 inc/onboarding/theme-info.php:187
+msgid "Blog options"
+msgstr "ブログ設定"
+
+#: inc/customizer/customizer.php:977
+msgid "Disable the overlay?"
+msgstr "オーバーレイを無効化する。"
+
+#: inc/customizer/customizer.php:943 inc/customizer/customizer.php:1051
+msgid "Contain"
+msgstr "含む"
+
+#: inc/customizer/customizer.php:697 inc/customizer/customizer.php:1116
+msgid "Inline"
+msgstr "インライン"
+
+#: inc/customizer/customizer.php:698 inc/customizer/customizer.php:1117
+msgid "Centered (menu and site logo)"
+msgstr "中央揃え (メニューとサイトロゴ)"
+
+#: inc/customizer/customizer.php:939
+msgid "Header background size"
+msgstr "ヘッダーの背景サイズ"
+
+#: inc/customizer/customizer.php:942 inc/customizer/customizer.php:1050
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/customizer/customizer.php:677 inc/customizer/customizer.php:1077
+msgid "Static"
+msgstr "静的"
+
+#: inc/customizer/customizer.php:694
+msgid "Menu style"
+msgstr "メニュースタイル"
+
+#: inc/customizer/customizer.php:609
+msgid "Call to action button"
+msgstr "行動喚起ボタン"
+
+#: inc/customizer/customizer.php:626
+msgid "URL for your call to action button"
+msgstr "行動喚起ボタンの URL"
+
+#: inc/customizer/customizer.php:643
+msgid "Text for your call to action button"
+msgstr "行動喚起ボタンのテキスト"
+
+#: inc/customizer/customizer.php:673
+msgid "Sticky menu"
+msgstr "メニューの固定"
+
+#: inc/customizer/customizer.php:676 inc/customizer/customizer.php:1076
+msgid "Sticky"
+msgstr "先頭に固定表示"
+
+#: inc/customizer/customizer.php:635
+msgid "Click to begin"
+msgstr "クリックしてはじめる"
+
+#: inc/customizer/customizer.php:595
+msgid "Subtitle for the fifth slide"
+msgstr "第5スライドのサブタイトル"
+
+#: inc/customizer/customizer.php:577
+msgid "Title for the fifth slide"
+msgstr "第5スライドのタイトル"
+
+#: inc/customizer/customizer.php:557
+msgid "Upload your fifth image for the slider"
+msgstr "第5スライダーの画像をアップロード"
+
+#: inc/customizer/customizer.php:538
+msgid "Fifth slide"
+msgstr "第5スライド"
+
+#: inc/customizer/customizer.php:524
+msgid "Subtitle for the fourth slide"
+msgstr "第4スライドのサブタイトル"
+
+#: inc/customizer/customizer.php:506
+msgid "Title for the fourth slide"
+msgstr "第4スライドのタイトル"
+
+#: inc/customizer/customizer.php:486
+msgid "Upload your fourth image for the slider"
+msgstr "第4スライダーの画像をアップロード"
+
+#: inc/customizer/customizer.php:467
+msgid "Fourth slide"
+msgstr "第4スライド"
+
+#: inc/customizer/customizer.php:453
+msgid "Subtitle for the third slide"
+msgstr "第3スライドのサブタイトル"
+
+#: inc/customizer/customizer.php:435
+msgid "Title for the third slide"
+msgstr "第3スライドのタイトル"
+
+#: inc/customizer/customizer.php:415
+msgid "Upload your third image for the slider"
+msgstr "第3スライダーの画像をアップロード"
+
+#: inc/customizer/customizer.php:396
+msgid "Third slide"
+msgstr "第3スライド"
+
+#: inc/customizer/customizer.php:382
+msgid "Subtitle for the second slide"
+msgstr "第3スライドのサブタイトル"
+
+#: inc/customizer/customizer.php:364
+msgid "Title for the second slide"
+msgstr "第2スライドのタイトル"
+
+#: inc/customizer/customizer.php:344
+msgid "Upload your second image for the slider"
+msgstr "第2スライダーの画像をアップロード"
+
+#: inc/customizer/customizer.php:224
+msgid "Slider speed"
+msgstr "スライダーのスピード"
+
+#: inc/customizer/customizer.php:155 inc/customizer/customizer.php:178
+msgid "No header (only menu)"
+msgstr "ヘッダーなし (メニューのみ)"
+
+#: inc/customizer/customizer.php:171
+msgid "Site header type"
+msgstr "サイトヘッダーの種類"
+
+#: inc/customizer/customizer.php:217
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer/customizer.php:227
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "ミリ秒単位でスライダー速度を設定します。0 で無効にします [デフォルト：4000]"
+
+#: inc/customizer/customizer.php:241
+msgid "Stop the text slider?"
+msgstr "テキストをスライドさせない。"
+
+#: inc/customizer/customizer.php:325
+msgid "Second slide"
+msgstr "第2スライド"
+
+#: inc/customizer/customizer.php:311
+msgid "Subtitle for the first slide"
+msgstr "第1スライドのサブタイトル"
+
+#: inc/customizer/customizer.php:293
+msgid "Title for the first slide"
+msgstr "第1スライドのタイトル"
+
+#: inc/customizer/customizer.php:273
+msgid "Upload your first image for the slider"
+msgstr "第1スライダーの画像をアップロード"
+
+#: inc/customizer/customizer.php:254
+msgid "First slide"
+msgstr "第1スライド"
+
+#: inc/onboarding/theme-info.php:31 inc/theme-dashboard-settings.php:151
+msgid "Welcome to Sydney"
+msgstr "Sydney へようこそ"
+
+#: inc/customizer/customizer.php:173
+msgid "Select the hero type for all pages except the front page"
+msgstr "フロントページを除くすべてのページで、ヒーローの種類を選択します"
+
+#: inc/customizer/customizer.php:187
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Hero  Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "スライダーには最大5つの画像を追加できます。上記の「ヒーロータイプ」セクションから、スライダーを表示する場所を選択してください。Call to action ボタンを追加することもできます (下にスクロールしてオプションを見つけます)"
+
+#: inc/customizer/customizer.php:153 inc/customizer/customizer.php:176
+#: inc/customizer/customizer.php:1035
+#: inc/customizer/options/blog-single.php:168
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/customizer.php:148
+msgid "Front page header type"
+msgstr "フロントページのヘッダー種類"
+
+#: inc/customizer/customizer.php:150
+msgid "Select the header type for your front page"
+msgstr "フロントページのヘッダーの種類を選択します"
+
+#: inc/customizer/customizer.php:152 inc/customizer/customizer.php:175
+#: inc/customizer/customizer.php:1034
+msgid "Full screen slider"
+msgstr "全画面スライダー"
+
+#: inc/customizer/customizer.php:125
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Hero Slider and Header Image) and configure them."
+msgstr "ここからヘッダーの種類を選択することができます。その後、次の2つのタブ (Hero Slider と Header Image) に進み、設定を行ってください。"
+
+#: inc/customizer/controls/class_sydney_tab_control.php:40
+#: inc/customizer/options/colors.php:20 inc/customizer/options/general.php:14
+#: inc/customizer/options/woocommerce.php:12
+#: inc/integrations/lifter/customize.php:18
+msgid "General"
+msgstr "一般"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:316
+msgid "Create your menu here"
+msgstr "メニューを作成"
+
+#: functions.php:119
+msgid "Footer "
+msgstr "フッター"
+
+#: functions.php:107 inc/customizer/options/colors.php:590
+#: inc/customizer/options/woocommerce.php:96
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: content-page.php:31 inc/template-tags.php:163
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:24 content-search.php:32 content-single.php:45
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:38 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:37 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:36 comments.php:54
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件のフィードバック"
+
+#: inc/extras.php:715
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: inc/extras.php:711
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:568
+#, gp-priority: low
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"
